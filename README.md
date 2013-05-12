@@ -9,8 +9,7 @@ https://github.com/RobertBeckebans/RBDOOM-3-BFG
 
 Based on the compiler used. the Layout of the executable might be different. 
 If this is the case use the file from the following link(it was built on Ubuntu using the latest gcc and support for 32-bits)
--------------------------------------------------------------------------------------------
 http://www.mediafire.com/?i2ynai2qdfk38t5
--------------------------------------------------------------------------------------------
+
 =====================================================================
 For any questions, please contact me at: tavyhome@gmail.com
